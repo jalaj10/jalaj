@@ -1,3 +1,3 @@
 # jalaj
 just a demo
-author- jalaj
+author- jalaj rathour
